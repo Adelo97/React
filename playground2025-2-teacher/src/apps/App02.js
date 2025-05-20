@@ -1,7 +1,7 @@
 import { seedGenerator } from '../services/seido-helpers';
 import Person from '../models/person';
 import Animal from '../models/animal';
-import { Helloworld } from '../plays/play02/components/helloworld';
+import { CardsPage } from '../plays/play02/components/CardsPage';
 
 //../plays/play02/components
 
@@ -13,7 +13,7 @@ export function App02_01() {
 
   return (
     <>
-    <Helloworld/>
+    <CardsPage/>
     </>
   );}
 
