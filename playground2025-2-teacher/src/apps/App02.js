@@ -1,7 +1,7 @@
 import { seedGenerator } from '../services/seido-helpers';
 import Person from '../models/person';
 import Animal from '../models/animal';
-import { CardsPage } from '../plays/play02/components/CardsPage';
+import { CardsPage } from '../plays/play02/components/CardPages';
 
 //../plays/play02/components
 
