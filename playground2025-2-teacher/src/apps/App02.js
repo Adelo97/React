@@ -1,7 +1,12 @@
 import { seedGenerator } from '../services/seido-helpers';
 import Person from '../models/person';
 import Animal from '../models/animal';
+<<<<<<< HEAD
 import { CardsPage } from '../plays/play02/components/CardPages';
+=======
+import { Helloworld } from '../plays/play02/components/helloworld';
+import { CardsPage } from '../plays/play02/pages/cardspage';
+>>>>>>> main
 
 //../plays/play02/components
 
